@@ -38,15 +38,15 @@ export default function HomePage() {
             <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold mb-8 leading-tight">
               Welcome to{" "}
               <span className="bg-gradient-to-r from-highlight to-yellow-300 bg-clip-text text-transparent">
-                Blessed
+                HOPE RESTORATION
               </span>
               <br />
-              Adult Family Home
+              Adult Family Home LLC
             </h1>
 
             <p className="text-xl md:text-2xl mb-12 max-w-4xl mx-auto leading-relaxed text-white/90">
               Where compassionate care meets the warmth of home. We create a family atmosphere where each resident is
-              treated with dignity, respect, and personalized attention in beautiful Lakewood, Washington.
+              treated with dignity, respect, and personalized attention in beautiful Lacey, Washington.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
@@ -105,7 +105,7 @@ export default function HomePage() {
               Why Families Choose Us
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Discover what makes Blessed Adult Family Home the trusted choice for families in Lakewood
+              Discover what makes HOPE RESTORATION ADULT FAMILY HOME LLC the trusted choice for families in Lacey
             </p>
           </div>
 
@@ -141,7 +141,7 @@ export default function HomePage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 text-center">
-                  Located in Lakewood, WA, close to Fort Steilacoom Park and St. Clare Hospital.
+                  Located in Lacey, WA, close to parks and local amenities.
                 </p>
               </CardContent>
             </Card>
@@ -161,7 +161,7 @@ export default function HomePage() {
           <div className="max-w-4xl mx-auto text-center">
             <Quote className="h-12 w-12 text-accent mx-auto mb-6" />
             <blockquote className="text-2xl font-medium text-gray-700 mb-6">
-              "Blessed Adult Family Home truly lives up to its name. The level of care and compassion shown to my mother
+              "HOPE RESTORATION ADULT FAMILY HOME LLC truly lives up to its name. The level of care and compassion shown to my mother
               has been extraordinary."
             </blockquote>
             <div className="flex items-center justify-center mb-6">

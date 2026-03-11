@@ -39,7 +39,7 @@ export default function AboutPage() {
                 <div>
                   <h3 className="text-2xl font-bold text-primary mb-3">True Home Environment</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    Located in a peaceful Lakewood neighborhood, our home provides a serene, residential setting where
+                    Located in a peaceful Lacey neighborhood, our home provides a serene, residential setting where
                     residents can thrive physically, emotionally, and socially.
                   </p>
                 </div>
@@ -99,7 +99,7 @@ export default function AboutPage() {
           {/* Location Highlights */}
           <div className="bg-white rounded-3xl shadow-2xl p-12 border border-primary/10">
             <div className="text-center mb-12">
-              <h3 className="text-4xl font-bold text-primary mb-4">Prime Lakewood Location</h3>
+              <h3 className="text-4xl font-bold text-primary mb-4">Prime Lacey Location</h3>
               <p className="text-xl text-gray-600">
                 Conveniently located with easy access to essential services and beautiful outdoor spaces
               </p>
@@ -109,15 +109,15 @@ export default function AboutPage() {
               <div className="text-center group">
                 <div className="bg-gradient-to-br from-secondary/10 to-accent/10 rounded-2xl p-6 group-hover:shadow-lg transition-all duration-300">
                   <TreePine className="h-12 w-12 text-secondary mx-auto mb-4" />
-                  <h4 className="text-xl font-bold text-primary mb-2">Fort Steilacoom Park</h4>
-                  <p className="text-gray-600">Beautiful park nearby for scenic walks and outdoor activities</p>
+                  <h4 className="text-xl font-bold text-primary mb-2">Local Parks</h4>
+                  <p className="text-gray-600">Beautiful parks nearby for scenic walks and outdoor activities</p>
                 </div>
               </div>
 
               <div className="text-center group">
                 <div className="bg-gradient-to-br from-accent/10 to-highlight/10 rounded-2xl p-6 group-hover:shadow-lg transition-all duration-300">
                   <Building2 className="h-12 w-12 text-accent mx-auto mb-4" />
-                  <h4 className="text-xl font-bold text-primary mb-2">St. Clare Hospital</h4>
+                  <h4 className="text-xl font-bold text-primary mb-2">Medical Facilities</h4>
                   <p className="text-gray-600">Close proximity to quality medical care and emergency services</p>
                 </div>
               </div>
@@ -147,7 +147,7 @@ export default function AboutPage() {
             <h2 className="text-5xl md:text-6xl font-bold mb-6">Experienced, Caring Professionals</h2>
             <p className="text-xl text-white/90 max-w-4xl mx-auto leading-relaxed">
               Our dedicated team of professionals brings years of experience and genuine compassion to every aspect of
-              care. Meet the people who make Blessed Adult Family Home a special place to call home.
+              care. Meet the people who make HOPE RESTORATION ADULT FAMILY HOME LLC a special place to call home.
             </p>
           </div>
 

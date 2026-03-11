@@ -26,7 +26,7 @@ export default function TestimonialsPage() {
             </h1>
             <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
               The trust families place in us is our greatest honor. Here's what they have to say about their experience
-              with Blessed Adult Family Home.
+              with HOPE RESTORATION ADULT FAMILY HOME LLC.
             </p>
           </div>
         </div>
@@ -48,7 +48,7 @@ export default function TestimonialsPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-6 leading-relaxed text-lg">
-                  "Blessed Adult Family Home truly lives up to its name. My mother has been living here for over a year,
+                  "HOPE RESTORATION ADULT FAMILY HOME LLC truly lives up to its name. My mother has been living here for over a year,
                   and we couldn't be happier with the level of care she receives. The caregivers treat her like family,
                   and I feel at ease knowing she's in such capable hands."
                 </p>
@@ -76,7 +76,7 @@ export default function TestimonialsPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-6 leading-relaxed text-lg">
-                  "After visiting several care facilities, Blessed Adult Family Home was the clear choice. My father has
+                  "After visiting several care facilities, HOPE RESTORATION ADULT FAMILY HOME LLC was the clear choice. My father has
                   dementia, and the memory care services here have been exceptional. The team has been patient,
                   understanding, and dedicated to helping him maintain a good quality of life."
                 </p>
@@ -104,7 +104,7 @@ export default function TestimonialsPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-6 leading-relaxed text-lg">
-                  "Moving my mom to Blessed Adult Family Home was one of the best decisions we made. The staff is
+                  "Moving my mom to HOPE RESTORATION ADULT FAMILY HOME LLC was one of the best decisions we made. The staff is
                   amazing, and I can tell they genuinely care about her. Knowing she's in a safe and loving environment
                   has brought us so much peace of mind."
                 </p>
@@ -132,7 +132,7 @@ export default function TestimonialsPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-6 leading-relaxed text-lg">
-                  "The level of professionalism combined with genuine care at Blessed Adult Family Home is remarkable.
+                  "The level of professionalism combined with genuine care at HOPE RESTORATION ADULT FAMILY HOME LLC is remarkable.
                   They handle my father's medical needs expertly while maintaining the warmth and comfort of a true home
                   environment. We couldn't ask for better care."
                 </p>
@@ -160,7 +160,7 @@ export default function TestimonialsPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-6 leading-relaxed text-lg">
-                  "What sets Blessed Adult Family Home apart is how they treat residents like extended family members.
+                  "What sets HOPE RESTORATION ADULT FAMILY HOME LLC apart is how they treat residents like extended family members.
                   My grandmother has formed genuine friendships with the staff, and they know her preferences, her
                   stories, and what makes her smile. It's exactly what we hoped for."
                 </p>
@@ -188,7 +188,7 @@ export default function TestimonialsPage() {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-6 leading-relaxed text-lg">
-                  "The communication from Blessed Adult Family Home is outstanding. They keep us informed about
+                  "The communication from HOPE RESTORATION ADULT FAMILY HOME LLC is outstanding. They keep us informed about
                   everything - from daily activities to health updates. We never feel out of the loop, and they welcome
                   our visits and involvement in care decisions."
                 </p>

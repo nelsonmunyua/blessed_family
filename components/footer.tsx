@@ -10,8 +10,8 @@ export function Footer() {
             <Link href="/" className="flex items-center space-x-3 mb-6">
               <Home className="h-8 w-8 text-highlight animate-float" />
               <div>
-                <h4 className="text-2xl font-bold">Blessed Adult Family Home</h4>
-                <p className="text-sm text-white/70">Licensed Care in Lakewood, WA</p>
+                <h4 className="text-2xl font-bold">HOPE RESTORATION ADULT FAMILY HOME LLC</h4>
+                <p className="text-sm text-white/70">Licensed Care in Lacey, WA</p>
               </div>
             </Link>
             <p className="text-white/80 leading-relaxed mb-6">
@@ -125,13 +125,13 @@ export function Footer() {
               <div className="flex items-center">
                 <MapPin className="h-5 w-5 mr-3 text-highlight" />
                 <div>
-                  <p>11234 58th Ave</p>
-                  <p>Lakewood, WA</p>
+                  <p>2606 College St SE</p>
+                  <p>Lacey, WA 98503</p>
                 </div>
               </div>
               <div className="flex items-center">
                 <Phone className="h-5 w-5 mr-3 text-highlight" />
-                <p>(Insert Phone Number)</p>
+                <p>+1 206 7911351</p>
               </div>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 mr-3 text-highlight" />
@@ -147,7 +147,7 @@ export function Footer() {
 
         <div className="border-t border-white/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-white/70 mb-4 md:mb-0">&copy; 2024 Blessed Adult Family Home. All rights reserved.</p>
+            <p className="text-white/70 mb-4 md:mb-0">&copy; 2024 HOPE RESTORATION ADULT FAMILY HOME LLC. All rights reserved.</p>
             <div className="flex items-center space-x-6 text-white/70">
               <a href="#" className="hover:text-highlight transition-colors">
                 Privacy Policy

@@ -42,7 +42,7 @@ export default function ActivitiesPage() {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none">
               <p className="text-xl text-gray-700 leading-relaxed mb-8">
-                Staying socially active is essential for emotional and mental well-being. At Blessed Adult Family Home,
+                Staying socially active is essential for emotional and mental well-being. At HOPE RESTORATION ADULT FAMILY HOME LLC,
                 we offer engaging activities that promote connection, creativity, and joy. From light exercise and music
                 therapy to board games, arts and crafts, and themed social events, there's always something enriching to
                 enjoy. We tailor activities to match individual interests and abilities, helping each resident feel

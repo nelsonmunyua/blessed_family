@@ -19,9 +19,9 @@ export function Navigation() {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                Blessed Adult Family Home
+                HOPE RESTORATION ADULT FAMILY HOME LLC
               </h1>
-              <p className="text-xs text-gray-500">Licensed Care • Lakewood, WA</p>
+              <p className="text-xs text-gray-500">Licensed Care • Lacey, WA</p>
             </div>
           </Link>
 

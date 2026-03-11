@@ -43,7 +43,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-semibold text-primary mb-1">Our Location</h3>
-                      <p className="text-gray-600">11234 58th Ave, Lakewood, WA</p>
+                      <p className="text-gray-600">2606 College St SE, Lacey, WA 98503</p>
                       <p className="text-sm text-gray-500">Beautiful residential neighborhood</p>
                     </div>
                   </div>
@@ -54,7 +54,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-semibold text-primary mb-1">Phone</h3>
-                      <p className="text-gray-600">(Insert Phone Number)</p>
+                      <p className="text-gray-600">+1 206 7911351</p>
                       <p className="text-sm text-gray-500">Available 24/7 for emergencies</p>
                     </div>
                   </div>

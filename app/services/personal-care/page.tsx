@@ -43,7 +43,7 @@ export default function PersonalCarePage() {
           <div className="max-w-4xl mx-auto">
             <div className="prose prose-lg max-w-none">
               <p className="text-xl text-gray-700 leading-relaxed mb-8">
-                At Blessed Adult Family Home, we understand that even small daily tasks can become overwhelming with age
+                At HOPE RESTORATION ADULT FAMILY HOME LLC, we understand that even small daily tasks can become overwhelming with age
                 or illness. Our compassionate caregivers offer respectful, hands-on assistance with bathing, dressing,
                 grooming, toileting, and mobility. Each care plan is customized to honor our residents' preferences and
                 privacy while promoting as much independence as possible. We're here to help our residents feel

@@ -1,3 +1,4 @@
+import Image from "next/image"
 import { Users, Clock, Home, Award, ArrowRight, TreePine, Star, Quote } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
@@ -6,6 +7,7 @@ import { Navigation } from "@/components/navigation"
 import { Footer } from "@/components/footer"
 import Link from "next/link"
 
+
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-white overflow-x-hidden">
@@ -13,6 +15,14 @@ export default function HomePage() {
 
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-40 sm:pt-36 md:pt-24">
+        {/* Hero background image */}
+        <Image
+          src="/images/caregive.jpg"
+          alt="Compassionate care at HOPE RESTORATION Adult Family Home"
+          fill
+          className="object-cover object-center mix-blend-overlay z-0 brightness-50"
+          priority
+        />
         {/* Background with animated gradients */}
         <div className="absolute inset-0 bg-gradient-to-br from-primary via-secondary to-accent"></div>
         <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-accent/20 to-highlight/30"></div>

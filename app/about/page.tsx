@@ -1,7 +1,9 @@
+import Image from "next/image"
 import { Home, UserCheck, HeartHandshake, TreePine, Building2, Car, GraduationCap, Award, Sparkles } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Navigation } from "@/components/navigation"
 import { Footer } from "@/components/footer"
+
 
 export default function AboutPage() {
   return (
@@ -73,26 +75,14 @@ export default function AboutPage() {
             </div>
 
             <div className="relative">
-              <div className="bg-gradient-to-br from-primary/10 to-accent/10 rounded-3xl p-8 backdrop-blur-sm">
-                <div className="grid grid-cols-2 gap-6">
-                  <div className="text-center">
-                    <div className="text-4xl font-bold text-primary mb-2">15+</div>
-                    <div className="text-gray-600">Years Experience</div>
-                  </div>
-                  <div className="text-center">
-                    <div className="text-4xl font-bold text-secondary mb-2">100%</div>
-                    <div className="text-gray-600">Family Satisfaction</div>
-                  </div>
-                  <div className="text-center">
-                    <div className="text-4xl font-bold text-accent mb-2">24/7</div>
-                    <div className="text-gray-600">Professional Care</div>
-                  </div>
-                  <div className="text-center">
-                    <div className="text-4xl font-bold text-highlight mb-2">6:1</div>
-                    <div className="text-gray-600">Care Ratio</div>
-                  </div>
-                </div>
-              </div>
+<Image
+                src="/images/caregive.jpg"
+                alt="Our caring team at HOPE RESTORATION"
+                width={300}
+                height={400}
+                className="rounded-3xl shadow-2xl object-cover w-full h-auto mx-auto"
+              />
+
             </div>
           </div>
 

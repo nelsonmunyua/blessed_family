@@ -77,7 +77,7 @@ export default function HomePage() {
             <div className="relative animate-slide-in-right lg:mt-4">
               <div className="relative rounded-3xl shadow-2xl overflow-hidden bg-gradient-to-br from-white to-gray-50 border-4 border-white/50">
                 <Image
-                  src="/images/caregive.jpg"
+src="/images/caregive3.jpg"
                   alt="Compassionate caregiver providing personalized care to senior resident at HOPE RESTORATION Adult Family Home"
                   width={600}
                   height={500}
